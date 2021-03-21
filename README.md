@@ -5,7 +5,7 @@ Code        :   BA_Code
 3D I/R, sham:   3d_condition  
 3D SingleR  :   3d_singler  
 3D new IDs  :   3d_relabeled  
-Markerlist  :   markers_BA  
+Markerlist  :   markers 
 
 # Interactive visualization  
 Cerebro file: available here (GitHub max. filesize)  
