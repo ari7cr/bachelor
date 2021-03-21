@@ -9,7 +9,7 @@ Markerlist  :   markers
 
 # Interactive visualization  
 Cerebro file: available here (GitHub max. filesize) : https://uni-duesseldorf.sciebo.de/s/JF8XYkwhr52hkkI
-Cerebro viewer: www.cardinet.hhu.de  
+Cerebro viewer: http://cardinet.hhu.de  
 
 # iCCL package  
 www.github.com/ari7cr/iCCL1  
