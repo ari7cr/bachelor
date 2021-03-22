@@ -15,4 +15,5 @@ Cerebro viewer: http://cardinet.hhu.de
 www.github.com/ari7cr/iCCL1  
 
 # Guided Tutorial  
-www.github.com/ari7cr/guidedscRNAseq  
+https://ari7cr.github.io/guidedscRNAseq/
+
