@@ -1,6 +1,7 @@
+# Bachelor Thesis Arian Abbasi
 ![http://arianabbasi.de/wp-content/uploads/2023/06/Single-Cell-Sequencing.png](http://arianabbasi.de/wp-content/uploads/2023/06/Single-Cell-Sequencing.png)
 
-# BA Arian Abbasi - Mar 2021
+# Data/Files
 Title       :   File name  
 Code        :   BA_Code  
 iCCL code   :   clustering_code
